@@ -1,0 +1,52 @@
+{:
+title = 'Who We Are'
+photostream = [{'href':'domestic.html','src':'images/stream/van.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'photovoltaic.html','src':'images/stream/pv1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/dom1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream4.jpeg','alt':'Photo of job well done','title':'Photo of job well done'}]
+:}
+{:include header:}
+<h1>Who We Are</h1>
+
+<p>LJB is a family run business and was founded by Lee Bullen 27 years ago. The office is based in Rickmansworth, Hertfordshire but have clients all around the country who choose and return to LJB because of the reliable and top quality service offered. We pride ourselves in being a professional company who offer value for money along with high quality workmanship.</p>
+
+<div class="ec bigger">
+<h2>The LJB Benefits</h2>
+<table>
+	<thead>
+		<tr>
+			<td>Our Service</td>
+			<td>Our Company</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Customer satisfaction</td>
+			<td>Transparent prices</td>
+		</tr>
+		<tr>
+			<td>Competitive prices</td>
+			<td>City and Guilds qualified</td>
+		</tr>
+		<tr>
+			<td>Free quotations</td>
+			<td>NICEIC registered contractor</td>
+		</tr>
+		<tr>
+			<td>Honest and reliable</td>
+			<td>Part P compliant</td>
+		</tr>
+		<tr>
+			<td>Mobile electricians covering London,</td>
+			<td>Public liability insurance</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;surrounding areas and further afield</td>
+			<td>Employers liability insurance</td>
+		</tr>
+	</tbody>
+</table>                           
+</div>
+{:include footer:}

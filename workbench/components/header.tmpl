@@ -1,0 +1,55 @@
+{:
+title = 'Electrical contractors'
+photostream = [{'href':'domestic.html','src':'images/stream/dom1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com3.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream3.jpeg','alt':'Photo of job well done','title':'Photo of job well done'}]
+:}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <title>LJB Contractors - {:title:}</title>
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu+Condensed' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="css/footer.css">
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js"></script>
+        <script type="text/javascript" src="scripts/script.js"></script>
+        <!--[if !IE 7]>
+            <style type="text/css">
+		        #wrap {display:table;height:100%}
+            </style>
+        <![endif]-->
+    </head>
+    <body>
+        <div id="container">
+            <div id="wrap">
+                <div id="main">
+                    <div id="header">
+                        <a href="/"><img src="images/big_logo.png" /></a>
+                        <div id="header_contact">
+                            <div class="title">Contact Us</div>
+                            <div><span class="title">T:</span>01923 776 958</div>
+                            <div><span class="title">M:</span>07899 907 460</div>
+                            <div><span class="title">E:</span><a href="mailto:lee@ljbcontracts.com">lee@ljbcontracts.com</a></div>
+                        </div>
+                        <div id="header_bar">
+                            <span>Electrical Contractors</span>
+                        </div>
+                    </div>
+                    <div id="nav">
+                        <a href="/">Home</a>
+                        <a href="/domestic.html"><span>&gt;</span> Domestic</a>
+                        <a href="/commercial.html"><span>&gt;</span> Commercial</a>
+                        <a href="/photovoltaic.html"><span>&gt;</span> Photovoltaic</a>
+                        <a href="/testing.html"><span>&gt;</span> Testing and Inspection</a>
+                        <a href="/whoweare.html">Who We Are</a>
+                        <a href="/contactus.html">Contact Us</a>
+                    </div>
+                    <div id="photo_stream">
+						{:foreach k,v in photostream
+						<a href="{:v['href']:}"><img src="{:v['src']:}" alt="{:v['alt']:}" title="{:v['title']:}" /></a>
+						:}
+                    </div>
+                    <div id="content">

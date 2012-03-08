@@ -1,0 +1,30 @@
+{:
+title = 'Contact Us'
+photostream = [{'href':'photovoltaic.html','src':'images/stream/pv1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/dom1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream4.jpeg','alt':'Photo of job well done','title':'Photo of job well done'}]
+:}
+{:include header:}
+<h1>Contact Us</h1>
+<p>If you'd like to get in touch with us - for a quote maybe, or for more information - there are plenty of ways to do so:</p>
+<h2>In Person</h2>
+<p>Our office opening hours are 0800 - 1600 Monday to Friday.</p>
+<p>Our callout team is available 24/7 so get in touch if there's an emergency.</p>
+<h2>By Telephone</h2>
+<p>If you'd like to give us a call then you can use our local rate number: 01923 776958. If you can't get through then try us on our mobile: 07899 907460.</p>
+<p>Ask for Lee Bullen (he's the boss).</p>
+<h2>By Email</h2>
+<p>If you'd prefer to contact us by email that's fine too, try one of these:</p>
+<p>General enquiries: <a href="mailto:info@ljbcontracts.com">info@ljbcontracts.com</a><br />
+Quotes and pricing: <a href="mailto:quotes@ljbcontracts.com">quotes@ljbcontracts.com</a></p>
+<h2>By Post</h2>
+<p>Finally, you could use snail mail, here's our address:</p>
+<p>56 Moor Lane<br />
+Rickmansworth<br />
+Hertfordshire<br />
+WD3 1LG</p>
+
+{:include footer:}

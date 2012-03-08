@@ -1,0 +1,45 @@
+{:
+title = 'Commercial'
+photostream = [{'href':'photovoltaic.html','src':'images/stream/pv1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/dom1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com3.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream4.jpeg','alt':'Photo of job well done','title':'Photo of job well done'}]
+:}
+
+{:include header:}
+<h1>Commercial</h1>
+
+<p>With over 26 years experience, LJB Electrical Contractors understand your need for compliance with Electrical Safety and Wiring Regulations, as well as a flexible and reliable service. All jobs are overseen by one of our Project Managers ensuring a first class service on all jobs from start to finish.</p>
+
+<p>We are committed to providing a premiere service for our commercial clients and we have experience in many varied projects with both large and small clients including:</p>
+
+<div class="ec">
+	<h2>Our Extensive Commerical Experience</h2>
+	<table>
+		<thead>
+			<tr>
+				<td>Projects</td>
+				<td>Clients</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Luxury domestic redevelopment</td>
+				<td>NHS</td>
+			</tr>
+			<tr>
+				<td>Hospitals</td>
+				<td>Westfield Construction</td>
+			</tr>
+			<tr>
+				<td>DM Developments</td>
+			</tr>
+		</tbody>
+	</table>                           
+</div>
+
+<p>Give us a call on 01923 776958 or 07899 907 460 to discuss your requirements. Alternatively <a href='mailto:quotes@ljbcontracts.co.uk'>get a quote now</a>.</p>
+
+{:include footer:}

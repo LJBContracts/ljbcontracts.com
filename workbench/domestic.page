@@ -1,0 +1,38 @@
+{:
+title = 'Domestic'
+photostream = [{'href':'domestic.html','src':'images/stream/stream1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream3.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/dom1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream4.jpeg','alt':'Photo of job well done','title':'Photo of job well done'}]
+:}
+{:include header:}
+<h1>Domestic</h1>
+<p>We offer a wide range of domestic electrical services, whether you need your home completely rewired, or simply need some new lighting or an additional socket fitted.</p>
+<p>Our electricians will provide a friendly, efficient and reliable service, with minimal disruption to your home.</p>
+<p>We excel in all of the following areas:</p>
+<div class="ec">
+	<h2>We excel in:</h2>
+	<table>
+		<tbody>
+			<tr>
+				<td>Electrical testing</td>
+				<td>Rewires</td>
+				<td>Lighting installation</td>
+			</tr>
+			<tr>
+				<td>Fuse &amp; consumer units</td>
+				<td>Fire &amp; smoke alarms</td>
+				<td>Security systems</td>
+			</tr>
+			<tr>
+				<td>Outdoor power</td>
+				<td>Electrical inspection</td>
+				<td>Solar PV</td>
+			</tr>
+		</tbody>
+	</table>                           
+</div>
+<p>Give us a call on 01923 776958 or 07899 907 460 to discuss your requirements. Alternatively <a href='mailto:quotes@ljbcontracts.co.uk'>get a quote now</a>.</p>
+{:include footer:}

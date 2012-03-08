@@ -1,0 +1,23 @@
+{:
+title = 'Testing'
+photostream = [{'href':'photovoltaic.html','src':'images/stream/pv1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/dom1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream4.jpeg','alt':'Photo of job well done','title':'Photo of job well done'}]
+:}
+{:include header:}
+<h1>Testing and Inspection</h1>
+
+<p>LJB Contractors are experts at electrical testing in both domestic and commercial property - to ensure that the fixed wiring is in good working and safe order. With the introduction of <a href="http://electrical.theiet.org/building-regulations/part-p/index.cfm" >Part P</a> in 2005 and the <a href="http://electrical.theiet.org/wiring-regulations/index.cfm" >17th edition<a> in 2008 there are many new rules and regulations to abide by to increase the safety of electricity in the home and workplace. An up to date electrical installation certificate will, naturally, offer you peace of mind. All our testing is carried out in accordance with the 17th edition of the IEE wiring regulations, BS7671.</p>
+
+<p></p>
+
+<p class="bold">LJB offer a wide range of electrical testing services including:</p>
+<p class="indent">Periodic inspection report</p>
+<p class="indent">Homebuyer's certificate</p>
+<p class="indent">Landlord's certificate</p>
+
+<p>Give us a call on 01923 776958 or 07899 907 460 to discuss your requirements. Alternatively <a href='mailto:quotes@ljbcontracts.co.uk'>get a quote now</a>.</p>
+{:include footer:}

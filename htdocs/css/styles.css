@@ -1,0 +1,182 @@
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    background-color: #8F9A99;
+    background-image: url('../images/background.jpeg');
+}
+#wrap, #footer {
+    background-color: white;
+}
+#wrap {
+    -moz-box-shadow: 0 0 20px 10px #777;
+    -webkit-box-shadow: 0 0 20px 10px #777;
+    box-shadow: 0 0 20px 10px #777;
+}
+#container {
+    height: 100%;
+    width: 1000px;
+    margin: auto;
+}
+#header {
+    padding-top: 10px;
+}
+#header img {
+    position: relative;
+    z-index: 10;
+    border: 0;
+}
+#header_bar {
+    width: 100%;
+    height: 15px;
+    background-color: #01D2FF;
+    position: relative;
+    top: -17px;
+    z-index: 0;
+}
+#header_contact {
+    float: right;
+    margin-right: 20px;
+    text-align: right;
+    font-size: 0.9em;
+}
+#header_contact div {
+    margin-bottom: 5px;
+}
+#header_contact div span {
+    display: inline-block;
+    width: 20px;
+    text-align: right;
+    margin-right: 5px;
+}
+#header_bar span {
+    float: right;
+    margin-right: 25%;
+    background-color: white;
+    font-size: 20pt;
+    margin-top: -15px;
+    padding: 0 10px;
+}
+#nav {
+    display: inline-block;
+    background-color: #EDF7FF;
+    position: absolute;
+    width: 165px;
+}
+#nav a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #565661;
+    font-size: 0.8em;
+}
+#nav a, #header_bar span, h1, h2 {
+    font-family: 'Lucida Sans Unicode', 'Bitstream Vera Sans', 'Trebuchet Unicode MS', 'Lucida Grande', Verdana, Helvetica, sans-serif;
+}
+#nav a:hover {
+    background-color: #01D2FF;
+    color: white;
+}
+#nav a span {
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+#photo_stream {
+    white-space: nowrap;
+    display: inline-block;
+    margin-top: -12px;
+    width: 835px;
+    overflow: hidden;
+    margin-left: 165px;
+}
+#photo_stream img {
+    width: 182px;
+    height: 137px;
+    display: inline-block;
+    position: relative;
+}
+#content {
+    padding: 20px;
+    width: 795px;
+    margin-left: 165px;
+}
+p {
+    margin: 7px 0;
+    font-size: 0.9em;
+    text-align: justify;
+}
+p.bold {
+    font-weight: bold;
+}
+p.indent {
+    width: 80%;
+    margin: auto;
+}
+h1, h2 {
+    font-weight: normal;
+}
+.ec {
+    background-color: #EDF7FF;
+    margin-top: 20px;
+    text-align: center;
+}
+.ec h2 {
+    background-color: #01D2FF;
+    color: white;
+    padding-left: 20px;
+    text-align: left;
+}
+.ec table {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.ec table td {
+    padding: 0 10px;
+    text-align: left;
+}
+.ec.bigger table td {
+    padding: 0 50px;
+}
+.ec table thead {
+    font-weight: 900;
+}
+.testimonial {
+    margin: 0 50px;
+}
+.testimonial .name {
+    font-weight: bold;
+}
+.testimonial .quote {
+    font-style: italic;
+    margin: 0 30px;
+    color: grey;
+}
+#approved {
+    width: 500px;
+    margin: auto;
+}
+#approved img {
+    height: 40px;
+    margin:0 30px;
+    border: 0;
+}
+.title {
+    font-weight: 900;
+}
+.center {
+    text-align: center;
+}
+div.profile {
+    clear: both;
+    padding: 10px 0;
+}
+div.profile img {
+    float: left;
+    height: 130px;
+    width: 100px;
+    margin-right: 20px;
+}
+div.profile p.name {
+    font-weight: bold;
+}

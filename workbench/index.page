@@ -1,0 +1,65 @@
+{:
+title = 'Home'
+photostream = [{'href':'domestic.html','src':'images/stream/dom1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com1.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com3.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'commercial.html','src':'images/stream/com2.jpeg','alt':'Photo of job well done','title':'Photo of job well done'},
+			   {'href':'domestic.html','src':'images/stream/stream3.jpeg','alt':'Photo of job well done','title':'Photo of job well done'}]
+:}
+
+{:include header:}
+
+<h1>Welcome to LJB Electrical Contractors</h1>
+<p>LJB Electrical Contractors was established in 2005 and has built up an enviable reputation for quality of workmanship and customer service.</p>
+<p>With over 26 years of electrical experience LJB pride ourselves on the quality of our work. The highest standards of workmanship and customer care are maintained at all times. All of our engineers are professionally qualified and work in accordance with guidelines from the Institute of Electrical Engineers (IEE) and the latest BS7671 Wiring Regulations.</p>
+<p>LJB have extensive experience and expertise in domestic, commercial and Industrial environments. So if you already have a good idea of your requirements, need advice on a new project or are a returning client please feel free to contact us.</p>
+<p>We look forward to your business and the opportunity to add you to our growing group of loyal clients.</p>
+
+<div class="ec">
+	<h2>Why Call Us?</h2>
+
+	<table>
+		<thead>
+			<tr>
+				<td>Quality</td>
+				<td>Customer Care</td>
+				<td>Pricing</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>NICEIC, MCS and ECA approved</td>
+				<td>24 hour emergency call outs</td>
+				<td>No call out charges</td>
+			</tr>
+			<tr>
+				<td>100% electrical testing</td>
+				<td>Landlords support</td>
+				<td>Free quotations</td>
+			</tr>
+			<tr>
+				<td>Fully guaranteed</td>
+				<td>Property management support</td>
+				<td>No hidden extras</td>
+			</tr>
+			<tr>
+				<td>Insured workmanship</td>
+				<td>Facilities support</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>All work to current BS standards</td>
+				<td>75% of our work is repeat custom</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>All domestic, commercial &amp; industrial works</td>
+				<td>We cover London &amp; surrounding areas</td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>                           
+</div>
+
+{:include footer:}
